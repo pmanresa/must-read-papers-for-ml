@@ -27,6 +27,13 @@
 :3rd_place_medal: - Read it third
 
 ---
+## pmanresa Current Status
+
+### Read
+
+* 
+
+---
 
 ## Data Science
 
