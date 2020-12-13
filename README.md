@@ -27,19 +27,12 @@
 :3rd_place_medal: - Read it third
 
 ---
-## pmanresa Current Status
-
-### Read
-
-* 
-
----
 
 ## Data Science
 
 ### :bar_chart: Pre-processing & EDA
 
-:1st_place_medal: :page_facing_up:[Data preprocessing - Tidy data - by Hadley Wickham](https://vita.had.co.nz/papers/tidy-data.pdf)
+:white_check_mark: - :1st_place_medal: :page_facing_up:[Data preprocessing - Tidy data - by Hadley Wickham](https://vita.had.co.nz/papers/tidy-data.pdf)
 
 ### :notebook: General DS
 
